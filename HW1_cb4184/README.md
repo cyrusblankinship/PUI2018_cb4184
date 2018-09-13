@@ -1,10 +1,14 @@
 # Homework 1
 
-I completed this homework independently.
+*I completed this homework independently. Colin Bradley helped me figure out how to embed pictures in this README file*
 
-
-![Alt text](PUI2018_cb4184/HW1_cb4184/bashrc.PNG "Title")
+## Establishing the environment variable and alias
+![Alt text](../HW1_cb4184/bashrc.PNG)
 *This is where I defined my user variable and alias*
 
-![Alt text](PUI2018_cb4184/HW1_cb4184/threecommands.png "Title")
+## Calling newly defined alias within terminal (ADRF)
+![Alt text](../HW1_cb4184/threecommands.PNG)
 *This is where i called my new variable & alias within terminal*
+
+
+   
