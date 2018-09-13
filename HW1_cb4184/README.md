@@ -3,8 +3,8 @@
 I completed this homework independently.
 
 
-![alt text](bashrc.png)
+![Alt text](PUI2018_cb4184/HW1_cb4184/bashrc.PNG "Title")
 *This is where I defined my user variable and alias*
 
-![alt text](threecommands.png)
+![Alt text](PUI2018_cb4184/HW1_cb4184/threecommands.png "Title")
 *This is where i called my new variable & alias within terminal*
