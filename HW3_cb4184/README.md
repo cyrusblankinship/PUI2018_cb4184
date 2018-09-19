@@ -8,5 +8,5 @@ This lab is for week 3 in PUI 2018
 ![Alt text](../HW3_cb4184/history.PNG)
 *This shows that there was a history*
 
-![Alt text](../HW3_cb4184/history.PNG)
+![Alt text](../HW3_cb4184/history2.PNG)
 *This is the lab history after I deleted the csv file*
