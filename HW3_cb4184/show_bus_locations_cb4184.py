@@ -1,9 +1,14 @@
+from __future__ import print_function
 import sys
 import json
 try:
     import urllib2 as urllib
 except ImportError:
     import urllib.request as urllib
+    
+if not len(sys.argv) == 3:
+    print ("Invalid number of arguments. Run as: python  show_bus_locations_cb4184.py APIKEY BUSNAME")
+    sys.exit()
 
 
 """Query the MTA BusTime vehicle monitoring API for locations"""
