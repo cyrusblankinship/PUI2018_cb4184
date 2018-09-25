@@ -9,7 +9,7 @@
 
 ![Alt text](../HW3_cb4184/history.PNG)
 *This shows that there was a history*
-*However, when I ran the code to remove the file and its cached history, it deleted the entire folder (Lab3_cb4184)
+*However, when I ran the code to remove the file and its cached history, it deleted the entire folder (Lab3_cb4184). This would have been avoided if I added a README.md file to the HW3 directory right way.
 
 ![Alt text](../HW3_cb4184/history2.PNG)
 *This is the lab history after I deleted the csv file*
