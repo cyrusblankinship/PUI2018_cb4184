@@ -1,7 +1,7 @@
 ### Assignment 1 - Plot Review for Cyrus Blankinship
 
 
-![Alt text](Cyrus_plot.png)
+![main plot](Locals_vs_Tourists_Start_time.png)
 
 The two plots show very interesting trends in tourist vs. New Yorker ridership throughout the day. The plots are both easy
 easy to read, however I would have liked to see another plot showing only the difference curves to get a clearer idea of 
