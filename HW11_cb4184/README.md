@@ -10,5 +10,6 @@ The data source was a 3D Numpy Array (MTAfares.pny) of shape 600,23,194 and corr
 3. Build two Random Forest Classifiers to predict card type, given (1.) 4 engineered features & (2.) the entire time series.
 
 ## Assignment 2: Improve plot from HW8
-Based on Rohun's feedback, I added another graph to my plot of just the two CDF differences overlayed on top of each other. I also used GridSpec to improve the visualization. I however did not plot the requested histogram because I did not feel it answered my initial question as well as my CDF's. 
+Based on Rohun's feedback, I added another graph to my plot of just the two CDF differences overlayed on top of each other. I also used GridSpec to improve the visualization. I however did not plot the requested histogram because I did not feel it answered my initial question as well as my CDF's.
 ![main plot](Revised_Locals_vs_Tourists_Start_time.png)
+**Figure 1:** The additional plot of differences shows that not only is the difference between tourists and locals lessened during the weekend, but the peaks are shifted to later in the day. This makes intuitive sense because people are not in as much of a hurry during the weekends and are getting later starts in their days. 
